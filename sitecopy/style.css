@@ -1,0 +1,14 @@
+.Logo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.video{
+    background-color: black;
+    width: 100vh;
+    
+}
+video{
+    display: flex;
+    justify-content: center;
+}
